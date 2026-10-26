@@ -1,6 +1,6 @@
 # HOÀNG THỊ NGỌC ÁNH
 
-![Ảnh đại diện của tôi](./avatar.jpg)
+![Ảnh đại diện của tôi](avatar.jpg)
 
 ## 🌟 Giới thiệu bản thân.
 Xin chào! Mình là Ngọc Ánh, hiện đang là sinh viên ngành **Sư phạm Tin học** tại Trường Đại học Sư phạm - Đại học Huế. Mình có niềm yêu thích đặc biệt với lập trình, tư duy máy tính và công nghệ phần mềm.
